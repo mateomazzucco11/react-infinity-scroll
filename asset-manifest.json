@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mateomazzucco11/react-infinity-scroll/static/css/main.b35f204e.chunk.css",
+    "main.js": "/mateomazzucco11/react-infinity-scroll/static/js/main.82fbddac.chunk.js",
+    "main.js.map": "/mateomazzucco11/react-infinity-scroll/static/js/main.82fbddac.chunk.js.map",
+    "runtime-main.js": "/mateomazzucco11/react-infinity-scroll/static/js/runtime-main.5a0d1f61.js",
+    "runtime-main.js.map": "/mateomazzucco11/react-infinity-scroll/static/js/runtime-main.5a0d1f61.js.map",
+    "static/js/2.d717bd6e.chunk.js": "/mateomazzucco11/react-infinity-scroll/static/js/2.d717bd6e.chunk.js",
+    "static/js/2.d717bd6e.chunk.js.map": "/mateomazzucco11/react-infinity-scroll/static/js/2.d717bd6e.chunk.js.map",
+    "index.html": "/mateomazzucco11/react-infinity-scroll/index.html",
+    "static/css/main.b35f204e.chunk.css.map": "/mateomazzucco11/react-infinity-scroll/static/css/main.b35f204e.chunk.css.map",
+    "static/js/2.d717bd6e.chunk.js.LICENSE.txt": "/mateomazzucco11/react-infinity-scroll/static/js/2.d717bd6e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a0d1f61.js",
+    "static/js/2.d717bd6e.chunk.js",
+    "static/css/main.b35f204e.chunk.css",
+    "static/js/main.82fbddac.chunk.js"
+  ]
+}
